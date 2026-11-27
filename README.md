@@ -1,141 +1,131 @@
-# 💜 MANAL EL MABTOUL
+# 💗 Manal El Mabtoul | Aspiring Full-Stack Developer
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&duration=2200&pause=700&color=DA70FF&center=true&vCenter=true&width=750&lines=Welcome+to+my+Digital+World+%E2%9C%A8;Aspiring+Full-Stack+Developer+%F0%9F%92%BB;Code.+Create.+Innovate.+Shine.+%F0%9F%92%9C" />
+<img src="https://readme-typing-svg.demolab.com?font=Georgia&size=25&duration=2500&pause=800&color=FF69B4&center=true&vCenter=true&width=750&lines=Welcome+to+my+digital+world+%E2%9C%A8;Aspiring+Full-Stack+Developer+%F0%9F%92%BB;Dreaming+%E2%80%A2+Coding+%E2%80%A2+Creating+%F0%9F%92%97;Learning+%E2%80%A2+Building+%E2%80%A2+Growing+%F0%9F%8C%B8" alt="Typing animation"/>
 
 <br/>
 
 <a href="https://github.com/manal-dev2027">
-<img src="https://img.shields.io/badge/💜_GITHUB-Explore_My_Work-9B5DE5?style=for-the-badge&labelColor=160B28"/>
+<img src="https://img.shields.io/badge/GitHub-Follow%20Me-FF69B4?style=for-the-badge&logo=github&logoColor=white&labelColor=2B1028"/>
 </a>
 <a href="mailto:benrouane.malak202@icloud.com">
-<img src="https://img.shields.io/badge/✉️_CONTACT-Let's_Connect-EC4899?style=for-the-badge&labelColor=160B28"/>
+<img src="https://img.shields.io/badge/Email-Contact%20Me-DDA0DD?style=for-the-badge&logo=gmail&logoColor=white&labelColor=2B1028"/>
 </a>
 
 <br/><br/>
 
-✨ `DREAM BIG` &nbsp; • &nbsp; `BUILD BRIGHT` &nbsp; • &nbsp; `SHINE ALWAYS` ✨
+✨ **DREAM BIG · CODE WITH PASSION · SHINE BRIGHT** ✨
 
 </div>
 
 ---
 
-## 🌙 01 — ABOUT ME
+## 🌸 About Me
 
-💜 **Hello! I'm Manal El Mabtoul**
+Hi! I'm **Manal El Mabtoul**, a Digital Development student from Morocco 🇲🇦
 
-🎓 Digital Development Student at ISTA — Morocco 🇲🇦
+I'm passionate about web development, creative ideas, and turning concepts into real applications.
 
-💻 Aspiring Full-Stack Developer with a passion for creating modern web applications.
+- 🎓 Digital Development student at ISTA.
+- 💻 Aspiring Full-Stack Developer.
+- 🌷 Exploring modern web technologies.
+- 🚀 Building projects and improving my skills.
+- ✨ Always curious, always learning.
 
-🌱 Always learning, exploring and improving my skills.
-
-🚀 Turning ideas into functional and creative projects.
+> *"She believed she could code, so she did."* 💗
 
 ---
 
-## ⚡ 02 — MY TECH STACK
+## 💎 My Tech Universe
 
 <div align="center">
 
-### 🎨 FRONTEND
-[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
-[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://react.dev/)
-[![Tailwind](https://img.shields.io/badge/Tailwind-38BDF8?style=for-the-badge&logo=tailwindcss&logoColor=white)](https://tailwindcss.com/)
+### 🎨 Frontend Development
 
-### ⚙️ BACKEND & DATABASE
-[![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)](https://www.php.net/)
-[![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)](https://laravel.com/)
-[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
-[![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)](https://www.java.com/)
+<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,alpinejs" alt="Frontend skills"/>
 
-### 🛠️ TOOLS
-[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
-[![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)](https://code.visualstudio.com/)
+### ⚡ Backend & Databases
+
+<img src="https://skillicons.dev/icons?i=php,laravel,mysql,java" alt="Backend skills"/>
+
+### 🛠️ Tools & Workflow
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,idea" alt="Development tools"/>
 
 </div>
 
 ---
 
-## 🚀 03 — FEATURED PROJECTS
-
-### 🎓 Student Management System
-[![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)](https://laravel.com/)
-[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)](https://www.mysql.com/)
-
-A web application for managing student records with authentication and Admin/User roles.
-
-🔗 [View Source Code](https://github.com/manal-dev2027/gestion-etudiants-laravel)
-
-🌐 [Live Demo](https://gestion-etudiants-laravel-production.up.railway.app)
-
-### 🧠 Quiz Challenge
-[![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)](https://react.dev/)
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-
-An interactive general knowledge quiz with difficulty levels, timer, sound effects and score tracking.
-
-🔗 [View Source Code](https://github.com/manal-dev2027/-quiz-challenge)
-
-🌐 [Live Demo](https://quiz-challenge-production.up.railway.app)
-
-### 📸 Student Management Portfolio
-A visual portfolio showcasing screenshots of my Laravel project.
-
-🔗 [Explore Portfolio](https://github.com/manal-dev2027/gestion-etudiants-portfolio)
-
----
-
-## 📊 04 — GITHUB ANALYTICS
+## 🚀 Featured Creations
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=manal-dev2027&show_icons=true&theme=midnight-purple&hide_border=true&title_color=DA70FF&icon_color=F472B6&text_color=E9D5FF&bg_color=0D0221" width="95%"/>
+<a href="https://github.com/manal-dev2027/gestion-etudiants-laravel">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=manal-dev2027&repo=gestion-etudiants-laravel&theme=dracula&hide_border=true&bg_color=2B1028&title_color=FF79C6&icon_color=FFB6D9" alt="Student Management System"/>
+</a>
+
+<a href="https://github.com/manal-dev2027/-quiz-challenge">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=manal-dev2027&repo=-quiz-challenge&theme=dracula&hide_border=true&bg_color=2B1028&title_color=FF79C6&icon_color=FFB6D9" alt="Quiz Challenge"/>
+</a>
+
+<a href="https://github.com/manal-dev2027/gestion-etudiants-portfolio">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=manal-dev2027&repo=gestion-etudiants-portfolio&theme=dracula&hide_border=true&bg_color=2B1028&title_color=FF79C6&icon_color=FFB6D9" alt="Student Portfolio"/>
+</a>
+
+</div>
+
+---
+
+## 📊 My GitHub Universe
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=manal-dev2027&show_icons=true&theme=dracula&hide_border=true&bg_color=2B1028&title_color=FF79C6&icon_color=FFB6D9&text_color=F8DDEB" alt="GitHub statistics"/>
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manal-dev2027&layout=compact&theme=dracula&hide_border=true&bg_color=2B1028&title_color=FF79C6&text_color=F8DDEB" alt="Top languages"/>
 
 <br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manal-dev2027&layout=compact&theme=midnight-purple&hide_border=true&title_color=DA70FF&text_color=E9D5FF&bg_color=0D0221" width="75%"/>
-
-<br/><br/>
-
-<img src="https://streak-stats.demolab.com?user=manal-dev2027&theme=midnight-purple&hide_border=true&ring=DA70FF&fire=F472B6&currStreakLabel=DA70FF&background=0D0221" width="95%"/>
+<img width="80%" src="https://streak-stats.demolab.com?user=manal-dev2027&theme=dracula&hide_border=true&background=2B1028&ring=FF79C6&fire=FF69B4&currStreakLabel=FFB6D9" alt="GitHub streak"/>
 
 </div>
 
 ---
 
-## 💎 05 — MY MINDSET
+## 🦋 My Developer Philosophy
 
 <div align="center">
 
-| ✨ Symbol | My Principle |
+| ✨ | My Mindset |
 |:---:|:---|
-| 💡 | Stay curious |
-| ⚡ | Create with passion |
-| 🌱 | Learn every day |
-| 💻 | Build meaningful projects |
-| 🚀 | Never stop growing |
+| 🌱 | Learn something new every day |
+| 💻 | Build with creativity |
+| 💗 | Write code with passion |
+| 🚀 | Never stop improving |
 
 </div>
 
 ---
 
-## 💌 06 — LET'S CONNECT
+## 💌 Let's Connect
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-My_Profile-9B5DE5?style=for-the-badge&logo=github&logoColor=white)](https://github.com/manal-dev2027)
+<a href="mailto:benrouane.malak202@icloud.com">
+<img src="https://img.shields.io/badge/Email-Say%20Hello-FF69B4?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
-[![Email](https://img.shields.io/badge/Email-Say_Hello-EC4899?style=for-the-badge&logo=gmail&logoColor=white)](mailto:benrouane.malak202@icloud.com)
+<a href="https://github.com/manal-dev2027">
+<img src="https://img.shields.io/badge/GitHub-Visit%20My%20Profile-DA70D6?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
-<br/>
+<br/><br/>
 
-### 💜 Thanks for visiting my profile!
+### 💗 Dream • Code • Create • Shine
 
-`< DREAM />` &nbsp; `CODE` &nbsp; `CREATE` &nbsp; `REPEAT`
+*“Behind every beautiful interface is a curious mind.”*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF69B4,50:DA70D6,100:9370DB&height=120&section=footer" width="100%" alt="Pink purple footer"/>
 
 </div>
